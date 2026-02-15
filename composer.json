@@ -1,0 +1,16 @@
+{
+    "name": "ivan-sorochinskiy/hw3",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IvanSorochinskiy\\Hw3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Sorochinskiy",
+            "email": "i.sorochinskiy@olinecontact.ru"
+        }
+    ],
+    "require": {}
+}
