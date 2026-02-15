@@ -1,6 +1,6 @@
 <?php
 
-namespace src\StringProcessor;
+namespace IvanSorochinskiy\Hw3;
 
 class StringProcessor
 {
