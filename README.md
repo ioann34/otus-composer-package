@@ -9,11 +9,10 @@
 ## Установка 
 
 ```sh
-
+composer require ivan-sorochinskiy/hw3
 ```
 
 ## Использование
-
 
 ```php
 

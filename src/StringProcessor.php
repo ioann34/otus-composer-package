@@ -1,5 +1,7 @@
 <?php
 
+namespace src\StringProcessor;
+
 class StringProcessor
 {
     public function toLower(string $str)
