@@ -19,7 +19,7 @@ use IvanSorochinskiy\Hw3\Str;
 
 $str = new Str();
 
-echo $strProc->toLower('ПрИвЕт!');
-echo $strProc->toUpper('ПрИвЕт!');
-echo $strProc->toLatin('Иван Сорочинский');
+echo $str->toLower('ПрИвЕт!');
+echo $str->toUpper('ПрИвЕт!');
+echo $str->toLatin('Иван Сорочинский');
 ```
