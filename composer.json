@@ -12,5 +12,7 @@
             "email": "i.sorochinskiy@olinecontact.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.4"
+    }
 }
